@@ -1,4 +1,4 @@
-# Hey, I'm Priyanshu 👋
+# Hey, I'm Priyanshu!
 
 Incoming APM at **Cashfree Payments** · Constantly tinkering and building AI native tools for underserved markets · BITS Pilani
 
