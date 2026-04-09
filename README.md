@@ -6,7 +6,7 @@ Incoming APM at **Cashfree Payments** · Constantly tinkering and building AI na
 
 ## Currently Building
 
-**[Squash](https://github.com/SinghSahitya/agentic_ai)** — Agentic AI platform for PMs. Multi-agent LangGraph architecture with an orchestrator routing to specialized sub-agents connected to 20+ tools that product teams use. Think Cursor, but for product work. Also built a learning agent that runs in the background to crawl through the connected tools, distill unstructured and messy data from tools into structured **knowledge artifacts**, and stores them in a shared org-level knowledge base.
+**[Squash](https://github.com/SinghSahitya/agentic_ai)** — Agentic AI platform for PMs. Multi-agent LangGraph architecture with an orchestrator routing to specialized sub-agents connected to 20+ tools that product teams use. Think Cursor, but for product work. Also built a learning agent that runs in the background to crawl through the connected tools, distill unstructured and messy data from tools into structured **knowledge artifacts**, and stores them in a shared org-level knowledge base. Use the live product [here](https://squash-frontend.vercel.app/).
 
 **[MediDrop](https://github.com/shubhkotalwar2112-ux/medidrop)** — WhatsApp-native medicine delivery — customers search, add to cart, and order entirely over chat. Claude orchestrates the full conversation flow with tool use: Qdrant hybrid search over the medicine catalog, prescription image uploads, voice note handling, and live order tracking — all in English, Hindi, and Marathi. Firebase backend, FastAPI ERP for the pharmacy team, and a separate rider app for delivery assignment.
 
